@@ -9,7 +9,7 @@ function Message() {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_636zvif' , 'template_a2447z8', form.current, 'uLMrjaP9IJzV8sGza')
+        emailjs.sendForm('service_812jmpc' , 'template_74g4jwm', form.current, 'Lz76G_s1CbzkSjbaL')
 
         e.target.reset();
     };
