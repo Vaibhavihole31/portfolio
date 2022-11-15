@@ -1,0 +1,32 @@
+.send-message-card{
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 1px 1px 4px 2px gray;
+}
+
+.btn-send-msg{
+    padding: 5px;
+    margin: 3px;
+    width: 150px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0px 3px 1px -2px rgb(0, 0, 0);
+}
+
+.btn-send-msg:hover{
+    box-shadow: 3px 4px 2px -2px rgb(0, 0, 0);
+}
+
+.contact-card{
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 1px 1px 3px  gray;
+}
