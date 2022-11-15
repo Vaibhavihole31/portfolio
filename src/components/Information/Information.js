@@ -16,7 +16,7 @@ function Information() {
                     <div className='col-md-6'>
                         <img src={vaibhaviImg} className='header-img mt-3 mx-auto d-block' />
                         <h4 className='text-center mt-3'>Vaibhavi Hole</h4>
-                        <h5 className='text-center mt-1'>Web Developer & Programmer 💻</h5>
+                        <h5 className='text-center mt-1'>Founding Member at Road To Code 💻</h5>
 
                         <div className='container mt-4'>
                             <div className='row'>
@@ -74,8 +74,8 @@ function Information() {
                             <a href='https://www.roadtocode.org/' target='blank' className='rtc-logo-a'>
                                 <h5><img src={rtcLogo} className="rtc-logo" /> Road To code</h5>
                             </a>
-                            I working as teaching assistance at Road To Code where i can
-                            <b> Helping and Exploring Students To start their Programming Journey</b>. I am Confident to solve Student programming doubt,
+                            <b>Founding Member at Road To Code</b>. 
+                           We are Helping and Exploring Students To start their Programming Journey . I am Confident to solve Student programming doubt,
                             i have a strong problem sovling skill.
                         </div>
                     </div>
