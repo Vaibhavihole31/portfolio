@@ -31,7 +31,7 @@ function Project() {
               <h6 className='text-center'>Get access to notes anytime, anywhere.</h6>
 
           <div className='text-center'>
-          <a href='https://openbook.roadtocode.org/' target='blank'>
+          <a href='https://open-book.onrender.com/' target='blank'>
                 <button className='btn-demo m-3 p-2'><b><i class="fas fa-laptop-code"></i> Live Demo</b></button>
               </a>
 
@@ -68,7 +68,7 @@ function Project() {
               
 
           <div className='text-center'>
-          <a href='https://chalk-talk.roadtocode.org/' target='blank'>
+          <a href='https://chalk-talk-u6gk.onrender.com/' target='blank'>
                 <button className='btn-demo m-3 p-2'><b><i class="fas fa-laptop-code"></i> Live Demo</b></button>
               </a>
 
