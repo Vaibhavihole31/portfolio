@@ -37,14 +37,6 @@ function Information() {
                                     <img src={Instagram} alt="linkedin" class="ico-social" />
                                 </a>
 
-                                <a href="https://www.linkedin.com/in/vaibhavi-hole/" class="ico-social-container" target='blank'>
-                                    <img src={Linkdin} alt="linkedin" class="ico-social" />
-                                </a>
-
-                                <a href="tel:7821011979" class="ico-social-container">
-                                    <img src={Phone} alt="call" class="ico-social" />
-                                </a>
-
                             </div>
                         </div>
 
