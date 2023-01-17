@@ -9,7 +9,7 @@ function Message() {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_812jmpc' , 'template_74g4jwm', form.current, 'Lz76G_s1CbzkSjbaL')
+        emailjs.sendForm('service_812jmpc', 'template_74g4jwm', form.current, 'Lz76G_s1CbzkSjbaL')
 
         e.target.reset();
     };
@@ -19,10 +19,16 @@ function Message() {
             <div className='container'>
                 <div className='row'>
                     <div className='col-md-7'>
-                       <div className='contact-card'>
-                       <h4 className='text-center mb-3'>Education</h4>
-                       <p>I Currently Pursing my <b>B.Tech</b> in <b>Computer Engineering</b> From <b>Savitribai Phule Pune University</b>. <br/>- Nov 2022 - Aug 2025</p>
-                       </div>
+                        <div className='contact-card'>
+                            <h4 className='text-center mb-3'>Education</h4>
+                            <p>I Currently Pursing my <b>B.Tech</b> in <b>Computer Engineering</b> From <b>Savitribai Phule Pune University</b>. <br />- Nov 2022 - Aug 2025</p>
+
+                            <div>
+                                <b> Diploma in Production Engineering</b> <br/>
+                                Government Polytechnic, Ahmednagar <br/>
+                                -Aug 2019 - May 2022
+                            </div>
+                        </div>
                     </div>
                     <div className='col-md-1'></div>
                     <div className='col-md-4 mb-4'>
