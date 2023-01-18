@@ -54,10 +54,10 @@ function Information() {
                         <div className='mt-4 card-skill'>
                             <p className='text-center'>
                                 <button type="button" class="btn-js btn-sm m-2"><b><i class="fa-brands fa-square-js"></i> Javascript</b></button>
+                                <button type="button" class="btn-md btn-sm m-2"><b><i class="fa-solid fa-database"></i> Mongo DB</b></button>
                                 <button type="button" class="btn-rj btn-sm m-2"><b><i class="fa-brands fa-react"></i> React JS</b></button>
                                 <button type="button" class="btn-nj btn-sm m-2"><b><i class="fa-brands fa-node-js"></i> Node JS</b></button>
                                 <button type="button" class="btn-boot btn-sm m-2"><b><i class="fa-brands fa-bootstrap"></i> Bootstrap</b></button>
-                                <button type="button" class="btn-md btn-sm m-2"><b><i class="fa-solid fa-database"></i> Mongo DB</b></button>
                                 <button type="button" class="btn-git btn-sm m-2"><b><i class="fa-brands fa-github"></i> Github</b></button>
                             </p>
                         </div>
