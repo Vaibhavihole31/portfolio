@@ -47,7 +47,7 @@ function Information() {
                     </div>
                     <div className='col-md-6'>
                         <div className='mt-5'>
-                            Hello I'm <b>Vaibhavi Hole</b>. I have good Programming Skills in C, C++, Python.
+                            Hello I'm <b>Vaibhavi Hole</b>. A MERN Stack Developer Passionate About Coding. I have good Programming Skills in C, C++, Python.
                             I have done projects in Html, CSS, Javascript, Bootstrap, Nodejs, Reactjs, MongoDB.
                         </div>
 
