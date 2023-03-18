@@ -59,3 +59,9 @@
 .btn-code:hover {
     box-shadow: 3px 4px 2px -2px rgb(0, 0, 0);
 }
+
+.project-heading-card{
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px  gray; 
+}

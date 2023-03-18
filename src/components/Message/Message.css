@@ -30,3 +30,29 @@
     margin-right: auto;
     box-shadow: 1px 1px 3px  gray;
 }
+
+.login-form-input{
+    width: 100%;
+    height: 40px;
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.login-form-input:focus {
+    outline: none;
+  }
+
+.text-area-input{
+    width: 100%;
+    border: none;
+    padding: 20px;
+    min-height: 150px !important;
+    background-color: #f0f0f0;
+    border-radius: 7px;
+}
+
+.text-area-input:focus {
+    outline: none;
+  }

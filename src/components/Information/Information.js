@@ -41,14 +41,15 @@ function Information() {
                         </div>
 
                         <div className='text-center mt-4'>
-                        <button type="button" class="btn-resume btn-sm m-2"><b><i class="far fa-file-alt"></i> Show Resume</b></button>
+                            <a target='_blank' href='https://drive.google.com/file/d/1mRppdloXKtEu48A8xOKCZIFKosVDEGVf/view?usp=sharing'> 
+                            <button type="button" class="btn-resume btn-sm m-2"><b><i class="far fa-file-alt"></i> Show Resume</b></button>
+                            </a>
                         </div>
 
                     </div>
                     <div className='col-md-6'>
                         <div className='mt-5'>
-                            Hello I'm <b>Vaibhavi Hole</b>. A MERN Stack Developer Passionate About Coding. I have good Programming Skills in C, C++, Python.
-                            I have done projects in Html, CSS, Javascript, Bootstrap, Nodejs, Reactjs, MongoDB.
+                            "Hi, I'm <b>Vaibhavi Hole</b>! I'm a MERN stack developer and I love coding. I have experience with programming languages like C, C++, and Python, and have worked on web development projects using HTML, CSS, JavaScript, Bootstrap, Node.js, React.js, and MongoDB. I'm passionate about creating functional and user-friendly applications. Let's work together and create something great!"
                         </div>
 
                         <div className='mt-4 card-skill'>
@@ -66,8 +67,8 @@ function Information() {
                             <a href='https://www.roadtocode.org/' target='blank' className='rtc-logo-a'>
                                 <h5><img src={rtcLogo} className="rtc-logo" /> Road To code</h5>
                             </a>
-                            <b>Founding Member at Road To Code</b>. 
-                           We are Helping and Exploring Students To start their Programming Journey . I am Confident to solve Student programming doubt,
+                            <b>Founding Member at Road To Code</b>.
+                            We are Helping and Exploring Students To start their Programming Journey . I am Confident to solve Student programming doubt,
                             i have a strong problem sovling skill.
                         </div>
                     </div>

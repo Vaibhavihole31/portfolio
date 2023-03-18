@@ -6,7 +6,7 @@ import chalkTalk from './chalk-talk.png';
 function Project() {
   return (
     <>
-      <div className='project-heading-card mt-4 shadow'>
+      <div className='project-heading-card'>
         <h3 className='text-center'><i class="fa-sharp fa-solid fa-computer"></i> Projects</h3>
       </div>
 
