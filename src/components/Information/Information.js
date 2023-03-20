@@ -41,7 +41,7 @@ function Information() {
                         </div>
 
                         <div className='text-center mt-4'>
-                            <a target='_blank' href='https://drive.google.com/file/d/1mRppdloXKtEu48A8xOKCZIFKosVDEGVf/view?usp=sharing'> 
+                            <a target='_blank' href='https://drive.google.com/file/d/1b_5_bUETqkJPLMVmUt7dx71zzq4GdNRv/view?usp=sharing'> 
                             <button type="button" class="btn-resume btn-sm m-2"><b><i class="far fa-file-alt"></i> Show Resume</b></button>
                             </a>
                         </div>

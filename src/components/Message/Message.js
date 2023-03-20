@@ -21,7 +21,7 @@ function Message() {
                     <div className='col-md-7'>
                         <div className='contact-card'>
                             <h4 className='text-center mb-3'>Education</h4>
-                            <p>I Currently Pursing my <b>B.Tech</b> in <b>Computer Engineering</b> From <b>Savitribai Phule Pune University</b>. <br />- Nov 2022 - Aug 2025</p>
+                            <p>I Currently Pursing my <b>Bachelor of Engineering B.E.</b> in <b>Computer Engineering</b> From <b>Savitribai Phule Pune University</b>. <br />- Nov 2022 - Aug 2025</p>
 
                             <div>
                                 <b> Diploma in Computer Engineering</b> <br/>
