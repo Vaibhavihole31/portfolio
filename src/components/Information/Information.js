@@ -16,7 +16,7 @@ function Information() {
                     <div className='col-md-6'>
                         <img src={vaibhaviImg} className='header-img mt-3 mx-auto d-block' />
                         <h4 className='text-center mt-3'>Vaibhavi Hole</h4>
-                        <h5 className='text-center mt-1'>Founding Member at Road To Code 💻</h5>
+                        <h5 className='text-center mt-1'>Instructure at Road To Code 💻</h5>
 
                         <div className='container mt-4'>
                             <div className='row'>
