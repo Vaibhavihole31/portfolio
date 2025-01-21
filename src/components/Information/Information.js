@@ -6,7 +6,6 @@ import Github from './github-logo.png';
 import Linkdin from './linkdin-logo.png';
 import Twitter from './twitter-logo.png';
 import Instagram from './instagram-logo.png';
-import Phone from './phone.png';
 
 function Information() {
     return (

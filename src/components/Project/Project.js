@@ -15,7 +15,7 @@ function Project() {
           <div className='row'>
 
             <div className='col-md-4'>
-              <img src={bookImg} className="mx-auto d-block" />
+              <img src={bookImg} className="mx-auto d-block" alt="test" />
             </div>
             <div className='col-md-8'>
               <h3 className='text-center'>OpenBook 📖</h3>
@@ -50,7 +50,7 @@ function Project() {
           <div className='row'>
             
             <div className='col-md-4'>
-              <img src={chalkTalk} className="mx-auto d-block" />
+              <img src={chalkTalk} className="mx-auto d-block" alt="test"/>
             </div>
             <div className='col-md-8'>
               <h3 className='text-center'>Chalk-Talk 🤔</h3>
