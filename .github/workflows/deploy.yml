@@ -34,4 +34,4 @@ jobs:
                 aws-region: 'ap-south-1'
 
             - name: Push to S3
-              run: aws s3 sync . s3://adb-s3-magic-magic --delete
+              run: aws s3 sync build/ s3://adb-s3-magic-magic --delete
