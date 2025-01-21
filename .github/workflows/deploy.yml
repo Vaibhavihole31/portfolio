@@ -4,6 +4,8 @@ on:
     push:
         branches: 
             - "*"
+env:
+   CI: false
 
 jobs:
     build:
