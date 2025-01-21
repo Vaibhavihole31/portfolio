@@ -48,7 +48,7 @@ function Information() {
                     </div>
                     <div className='col-md-6'>
                         <div className='mt-5'>
-                            "Hi, I'm <b>Vaibhavi Hole</b>! I'm a MERN stack developer and I love coding. I have experience with programming languages like C, C++, and Python, and have worked on web development projects using HTML, CSS, JavaScript, Bootstrap, Node.js, React.js, and MongoDB. I'm passionate about creating functional and user-friendly applications. Let's work together and create something great!"
+                            Hi, I'm <b>Vaibhavi Hole</b>! I'm a MERN stack developer and I love coding. I have experience with programming languages like C, C++, and Python, and have worked on web development projects using HTML, CSS, JavaScript, Bootstrap, Node.js, React.js, and MongoDB. I'm passionate about creating functional and user-friendly applications. Let's work together and create something great!
                         </div>
 
                         <div className='mt-4 card-skill'>
